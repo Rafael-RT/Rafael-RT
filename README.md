@@ -1,4 +1,4 @@
-|<img align="center" alt="Swift Icon" src="https://img.icons8.com/bubbles/50/000000/swift.png"/>|
+|<img align="center" alt="Kotlin Icon" src="https://img.icons8.com/kotlin"/>|
 |:---:|
 
 
@@ -9,4 +9,4 @@
 </a>
 
 ## Top Languages  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmik&layout=compact&theme=gotham)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-RT&layout=compact&theme=gotham)
