@@ -5,7 +5,7 @@
 ## My GitHub Stats
 <a href="https://github.com/Rafael-RT">
     <img src="https://github-readme-stats.vercel.app/api?username=Rafael-RT&&show_icons=true&theme=radical&count_private=true" alt="Rafael-RT GitHub Stats" width="45%" align="right"/>
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-RT&theme=dark" width="48%" >sa
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-RT&theme=dark" width="48%" >
 </a>
 
 ## Top Languages  
