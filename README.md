@@ -1,4 +1,4 @@
-|<img align="center" alt="Kotlin Icon" src="https://img.icons8.com/kotlin"/>|
+|<img align="center" alt="Kotlin Icon" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Kotlin_icon_%282016-2021%29.svg"/>|
 |:---:|
 
 
